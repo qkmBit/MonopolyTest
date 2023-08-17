@@ -1,0 +1,93 @@
+{
+  "pallets": [
+    {
+      "id": 1,
+      "length": 100,
+      "width": 100,
+      "height": 5
+    },
+    {
+      "id": 2,
+      "length": 100,
+      "width": 100,
+      "height": 5
+    },
+    {
+      "id": 3,
+      "length": 100,
+      "width": 100,
+      "height": 5
+    },
+    {
+      "id": 4,
+      "length": 100,
+      "width": 100,
+      "height": 5
+    }
+  ],
+  "boxes": [
+    {
+      "id": 1,
+      "length": 15,
+      "width": 10,
+      "height": 5,
+      "weight": 10,
+      "pallet": 1,
+      "manufacture_date": "01.02.2023"
+    },
+    {
+      "id": 2,
+      "length": 10,
+      "width": 10,
+      "height": 10,
+      "weight": 5,
+      "pallet": 1,
+      "manufacture_date": "01.08.2023"
+    },
+    {
+      "id": 3,
+      "length": 10,
+      "width": 10,
+      "height": 10,
+      "weight": 5,
+      "pallet": 2,
+      "manufacture_date": "23.08.2023"
+    },
+    {
+      "id": 4,
+      "length": 15,
+      "width": 15,
+      "height": 10,
+      "weight": 12,
+      "pallet": 2,
+      "manufacture_date": "11.09.2023"
+    },
+    {
+      "id": 5,
+      "length": 10,
+      "width": 10,
+      "height": 5,
+      "weight": 7,
+      "pallet": 3,
+      "manufacture_date": "01.05.2023"
+    },
+    {
+      "id": 6,
+      "length": 10,
+      "width": 5,
+      "height": 10,
+      "weight": 3,
+      "pallet": 4,
+      "manufacture_date": "14.03.2023"
+    },
+    {
+      "id": 7,
+      "length": 15,
+      "width": 10,
+      "height": 5,
+      "weight": 10,
+      "pallet": 3,
+      "manufacture_date": "01.02.2023"
+    }
+  ]
+}
